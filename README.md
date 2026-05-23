@@ -8,7 +8,6 @@ Proven ability to handle end-to-end development, bug fixing, API design, desktop
 To leverage my full stack development experience in building robust, scalable applications while continuously learning new technologies and contributing to innovative software solutions.<br>
 
 ### 🚀 Tech Stack<br>
-
 - Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS<br>
 - Backend: Node.js, FastAPI<br>
 - AI & Tools: OpenAI APIs, LangGraph, Vector Databases<br>
