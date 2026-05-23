@@ -11,8 +11,14 @@ To leverage my full stack development experience in building robust, scalable ap
 - Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS<br>
 - Backend: Node.js, FastAPI, Rest API<br>
 - AI & Tools: OpenAI APIs, LangGraph, Vector Databases<br>
-- Database: MongoDB, Firebase<br>
-- Tools: Git, GitHub, VS Code, Figma<br>
+- Database: MongoDB, Firebase, MySQL.<br>
+- Tools: Git, GitHub, VS Code, Figma,<br>
+
+### 🌐 Connect With Me
+
+- GitHub: [https://github.com/](https://github.com/Tirumalachary)
+- LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/aratipamula-venkata-tirumala-achary/)
+- Portfolio: [https://yourportfolio.com/](https://github.com/Tirumalachary)
 
 
 ## 🌐 Socials:
