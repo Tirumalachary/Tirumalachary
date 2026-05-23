@@ -7,6 +7,14 @@ Development with W3C standard solutions.<br>
 Proven ability to handle end-to-end development, bug fixing, API design, desktop applications (Electron), and manual deployments across multiple platforms.<br>
 To leverage my full stack development experience in building robust, scalable applications while continuously learning new technologies and contributing to innovative software solutions.<br>
 
+### 🚀 Tech Stack<br>
+
+- Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS<br>
+- Backend: Node.js, FastAPI<br>
+- AI & Tools: OpenAI APIs, LangGraph, Vector Databases<br>
+- Database: MongoDB, Firebase<br>
+- Tools: Git, GitHub, VS Code, Figma<br>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/tirumala) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tirumala_achary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aratipamula-venkata-tirumala-achary/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TirumalaGraphicUI) 
