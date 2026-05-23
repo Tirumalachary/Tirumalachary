@@ -9,7 +9,7 @@ To leverage my full stack development experience in building robust, scalable ap
 
 ### 🚀 Tech Stack
 - Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS<br>
-- Backend: Node.js, FastAPI<br>
+- Backend: Node.js, FastAPI, Rest API<br>
 - AI & Tools: OpenAI APIs, LangGraph, Vector Databases<br>
 - Database: MongoDB, Firebase<br>
 - Tools: Git, GitHub, VS Code, Figma<br>
