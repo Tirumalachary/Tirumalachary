@@ -1,5 +1,5 @@
 💫 About Me:
-Hi 👋, I'm Tirumala Achary<br><br> 
+Hi 👋, I'm Tirumala Achary<br>
 7+ Years of JAVA experience in Web UI Architect integration in React UI 5 Years of exclusively development.<br>
 Frontend Developer | React & Next.js Enthusiast | AI Explorer | API Design<br><br>🔭 I’m currently working on modern web applications, AI-powered platforms, and real estate tech solutions.<br><br>👯 I’m looking to collaborate on frontend development, AI agent systems, and innovative startup projects.<br><br>🤝 I’m looking for help with scalable architectures, AI integrations, and cloud deployments.<br><br>🌱 I’m currently learning LangGraph, advanced AI workflows, backend scalability, and system design.<br><br>💬 Ask me about React, Next.js, Tailwind CSS, UI/UX design, AI tools, and frontend development.<br><br>⚡ Fun fact: I love turning creative ideas into beautiful and functional digital experiences.
 
