@@ -20,6 +20,7 @@ To leverage my full stack development experience in building robust, scalable ap
 - LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/aratipamula-venkata-tirumala-achary/)
 - Portfolio: https://www.youtube.com/@TirumalaGraphicUI
 - Phone Number:<a href="#" color="red">**8019756623**</a>
+<img src="https://img.shields.io/badge/Phone-8019756623-red?style=for-the-badge"/>
 
 
 
