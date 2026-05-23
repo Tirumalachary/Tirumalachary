@@ -12,7 +12,7 @@ To leverage my full stack development experience in building robust, scalable ap
 - Backend: Node.js, FastAPI, Rest API<br>
 - AI & Tools: OpenAI APIs, LangGraph, Vector Databases<br>
 - Database: MongoDB, Firebase, MySQL.<br>
-- Tools: Git, GitHub, VS Code, Figma,Adobe Dreamweaver, Adobe XD, Adobe Illustrator<br>
+- Tools: Git, GitHub, VS Code, Figma,Adobe Dreamweaver, Adobe XD, Adobe Illustrator.<br>
 
 ### 🌐 Connect With Me
 
