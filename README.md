@@ -1,6 +1,12 @@
 💫 About Me:
 Hi 👋, I'm Tirumala Achary<br><br> Frontend Developer | React & Next.js Enthusiast | AI Explorer | API Design<br><br>🔭 I’m currently working on modern web applications, AI-powered platforms, and real estate tech solutions.<br><br>👯 I’m looking to collaborate on frontend development, AI agent systems, and innovative startup projects.<br><br>🤝 I’m looking for help with scalable architectures, AI integrations, and cloud deployments.<br><br>🌱 I’m currently learning LangGraph, advanced AI workflows, backend scalability, and system design.<br><br>💬 Ask me about React, Next.js, Tailwind CSS, UI/UX design, AI tools, and frontend development.<br><br>⚡ Fun fact: I love turning creative ideas into beautiful and functional digital experiences.
 
+Electronic Media Professional with 7+ Years of JAVA experience in Web UI Architect integration in React UI 5 Years of exclusively development for the Mobile Space including iPhone, Android phones, Blackberry, iPad, Android Tablet and HP Touch pad. JAVA Strong exposure development desktop applications using Web 2.0 &3.0 features Create pure JAVA websites that effectively enhance the user Interface, including the design and concept development, maintenance. (X)HTML Conversion and 
+<br>
+Development with W3C standard solutions.<br>
+Proven ability to handle end-to-end development, bug fixing, API design, desktop applications (Electron), and manual deployments across multiple platforms.<br>
+To leverage my full stack development experience in building robust, scalable applications while continuously learning new technologies and contributing to innovative software solutions.<br>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/tirumala) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tirumala_achary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aratipamula-venkata-tirumala-achary/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TirumalaGraphicUI) 
