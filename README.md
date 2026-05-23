@@ -20,6 +20,9 @@ To leverage my full stack development experience in building robust, scalable ap
 - LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/aratipamula-venkata-tirumala-achary/)
 - Portfolio: https://www.youtube.com/@TirumalaGraphicUI
 - Phone Number:<a href="#" style="color:#FFD700;" >**8019756623**</a>
+<a href="#" style="color:red; font-weight:bold;">
+  Frontend Developer
+</a>
 
 
 ## 🌐 Socials:
